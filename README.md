@@ -15,6 +15,8 @@ MYMOVIE HUB is a modern, feature-rich movie recommendation platform designed to 
 -> State & Effect Management: React Hooks (useState, useEffect, etc.)
 
 
+
+
 🔋 Features
 -> Browse All Movies: Explore a wide range of movies available on the platform.
 
